@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: "Jcrash29/minimal-mistakes@4.21.0-custom"
+remote_theme: "Jcrash29/minimal-mistakes/4.20.0-custom"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
