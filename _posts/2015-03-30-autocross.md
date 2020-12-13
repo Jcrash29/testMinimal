@@ -1,7 +1,7 @@
 ---
-title: "Autonomous Ground Vehicle Path Planning for Autocross Tracks"
-description: ""
-category: projects 
+title: "Autonomous Ground Vehicle Path Planning"
+category: 
+  - Projects 
 tags: []
 comments : false
 header:
