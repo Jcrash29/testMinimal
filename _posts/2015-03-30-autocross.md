@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Ground Vehicle Path Planning"
-category: 
+categories: 
   - Projects 
 tags: []
 comments : false

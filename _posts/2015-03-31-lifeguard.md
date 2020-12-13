@@ -1,10 +1,10 @@
 ---
-title: "LifeGuard Robotics"
-category:
-  - Projects
-tags:
-header
-  teaser: {{site.url}}/assets/images/projects/smallerboat.png
+title: "Life"
+categories: 
+  - Projects 
+tags: []
+header:
+  teaser: /assets/images/projects/smallerboat.png
 ---
 
 <figure class="align-left">
