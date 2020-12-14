@@ -1,5 +1,5 @@
 ---
-title: "Life"
+title: "Lifeguard Robotics"
 categories: 
   - Projects 
 tags: []
