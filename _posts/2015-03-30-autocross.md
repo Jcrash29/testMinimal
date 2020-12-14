@@ -5,7 +5,7 @@ categories:
 tags: []
 comments : false
 header:
-  teaser: /assets/images/projects/Variables.png
+  teaser: "/assets/images/projects/Variables.png"
 ---
 
 In 2015 I recieved my Masters in Computer Engineering from the [University of California Santa Cruz](http://www.ucsc.edu). The thesis proposes a computationally efficient path planning algorithm for an autonomous ground vehicle. A Bézier curve solution is proposed that maintains G2 continuity throughout the track. A dynamic programming algorithm plans two initial paths through the course. The first path minimizes the maximum curvature (MMC), while the second path minimizes the distance traveled. By blending the MMC and shortest paths a pseudo-optimal path is calculated based on the vehicle dynamics. The pseudo-optimal path achieves a shorter lap time than either the MMC or shortest paths.

@@ -4,7 +4,7 @@ categories:
   - Projects 
 tags: []
 header:
-  teaser: /assets/images/projects/smallerboat.png
+  teaser: "/assets/images/projects/smallerboat.png"
 ---
 
 <figure class="align-left">
