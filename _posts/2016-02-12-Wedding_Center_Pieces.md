@@ -3,10 +3,8 @@ title: "Wedding Center Pieces"
 categories:
   - Projects
 tags: []
-<!--
 header:
-  teaser: "/assets/images/projects/DiscGolf.png"
--->
+  teaser: "/assets/images/projects/Wedding.png"
 ---
 
 
