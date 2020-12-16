@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "John Crannell-Ash"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Husband, embedded software engineer, passionate enthusiast. Learning new hobbies everyday."
+  bio    : "Husband, embedded software engineer, passionate enthusiast, and solution driven. Learning new hobbies everyday."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

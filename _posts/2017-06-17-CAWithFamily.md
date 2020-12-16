@@ -271,11 +271,9 @@ Over all this trip has been well needed!
 * "Is that a chihuahua in a baby stroller" - John
 
 <figure>
-	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/CA/Wawo.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/CA/Wawo.jpg"></a>
+	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/CA/Wawo.png"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/CA/Wawo.png"></a>
 	<figcaption>The chihuahua in a stroller.</figcaption>
 </figure>
-
-<img  src="{{site.url}}/images/travels/CA/Wawo.png" alt="dog in stroller" style="width: 250px;" align="right"/>
 
 * "Korean?" -- old man "No,  but about the sample beef jerky" - cost co employee
 
