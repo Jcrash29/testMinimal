@@ -4,11 +4,11 @@ categories:
   - Travels
 tags: []
 header:
-  teaser: "/assets/images/travels/superior/freedomTrail.png"
+  teaser: "/assets/images/travels/Boston/freedomTrail.png"
 ---
 
 <figure>
-	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/superior/freedomTrail.png"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/superior/freedomTrail.png"></a>
+	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/Boston/freedomTrail.png"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/Boston/freedomTrail.png"></a>
 	<figcaption>Freedom Trail emblem</figcaption>
 </figure>
 
