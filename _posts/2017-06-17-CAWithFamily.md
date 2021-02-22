@@ -4,7 +4,7 @@ categories:
   - Travels
 tags: []
 header:
-  teaser: "http://santacruzskateboards.com/images/logos/sc-dot/sc-dot.svg"
+  teaser: "/assets/images/travels/CA/Drive.jpg"
 ---
 
 # Day 0 South Dakota + Fire
