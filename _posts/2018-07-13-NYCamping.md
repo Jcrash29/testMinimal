@@ -1,13 +1,11 @@
 ---
 title: "Trip to the Adirondack"
-description: ""
 categories: 
   - Travels
 tags: []
 header:
   teaser: "/assets/images/travels/NYCamping/Adarandocks.jpeg"
 ---
-{% include JB/setup %}
 
 <figure>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Adarandocks.jpeg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Adarandocks.jpeg"></a>
@@ -27,7 +25,7 @@ I'm starting to regret this trip. I got in the car and noticed it had exactly 66
 This morning we started the day by eating at the local Highland Diner. Than we all boreded into the car and started our 4 hour drive. The car ride was pretty boring, until about halfway through when we saw the initial attack on Canada. After the terrifying helicopters i have officially accepted the fact that we had gone too far on this auspicious day.
 
 <figure>
-	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/SmileCopter.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/SmileCopter.jpeg"></a>
+	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/SmileCopter.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/SmileCopter.jpg"></a>
 	<figcaption>These Helicopters look like a smiley face</figcaption>
 </figure>
 
@@ -37,7 +35,7 @@ I dont know if i feel safe at the camp site. The camp was evicting the person ne
 
 <figure>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/BigFoot.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/BigFoot.jpg"></a>
-	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Tow.png"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Tow.png"></a>
+	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Tow.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Tow.jpg"></a>
 	<figcaption>The guys car had Big Foot stickers all over it. They had to send a tow truck</figcaption>
 </figure>
 
@@ -45,8 +43,8 @@ After that extremely eventful afternoon. Tim, Doug, Chris and I went to a local 
 
 <figure>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Bow.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Bow.jpg"></a>
-	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Putt.png"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Putt.png"></a>
-	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Sunset.png"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Sunset.png"></a>
+	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Putt.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Putt.jpg"></a>
+	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Sunset.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Sunset.jpg"></a>
 	<figcaption>Beautiful round of golf, made even better with a great sunset.</figcaption>
 </figure>
 
@@ -209,7 +207,6 @@ Ths drive home was 4.5 hrs. But atleast we made it. I would happily do it again!
 
 <figure>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/AttackOnCanada.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/AttackOnCanada.jpg"></a>
-	<figcaption>Marissa later pointed out to me how akward our walk was.</figcaption>
 </figure>
 
 * Taxidermy shop: "You snuff it, we stuff it" - Doug
