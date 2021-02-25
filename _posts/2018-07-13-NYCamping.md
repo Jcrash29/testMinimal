@@ -33,7 +33,7 @@ According to Tim there is also a super moon and a solar eclipse. It is clear we 
 
 I dont know if i feel safe at the camp site. The camp was evicting the person next to us because he had been their for two weeks. He was completely out of his mind that he didnt even realize he was talking to the sheriff for 20 minutes. In total there was 4 cop cars, an ambulance, and a tow truck.
 
-<figure>
+<figure class="half">
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/BigFoot.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/BigFoot.jpg"></a>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Tow.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Tow.jpg"></a>
 	<figcaption>The guys car had Big Foot stickers all over it. They had to send a tow truck</figcaption>
@@ -41,7 +41,7 @@ I dont know if i feel safe at the camp site. The camp was evicting the person ne
 
 After that extremely eventful afternoon. Tim, Doug, Chris and I went to a local golf course. Sadly the one that was half a mile down the road was  closed, so we drove 15 minutes into lake placid to play another local course. The four of us played 9 holes of golf. It was absolutely beautiful. I didnt do well,  but that wasnt the goal, it was still a lot of fun!
 
-<figure>
+<figure class="third">
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Bow.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Bow.jpg"></a>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Putt.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Putt.jpg"></a>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Sunset.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Sunset.jpg"></a>
@@ -98,7 +98,7 @@ after a good nap at camp Doug and I decided to go golfing at the nearby course. 
 
 ### The warriors returned 
 
-<figure>
+<figure class="half">
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/CF.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/CF.jpg"></a>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/CFS.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/CFS.jpg"></a>
 	<figcaption>Chris, Sarah and <a href="https://www.instagram.com/fitz_thegoodbrowndog">Fitz</a> ready for the hike.</figcaption>
@@ -177,7 +177,7 @@ Ths drive home was 4.5 hrs. But atleast we made it. I would happily do it again!
 </figure>
 
 
-<figure>
+<figure class="half">
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Fire.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Fire.jpg"></a>
 	<a href="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Fire2.jpg"><img src="{{site.url}}{{site.baseurl}}/assets/images/travels/NYCamping/Fire2.jpg"></a>
 	<figcaption>Fire  was wonderful.</figcaption>
